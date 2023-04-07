@@ -1,0 +1,19 @@
+{
+  "name": "@tuge-ui/theme-chalk",
+  "version": "1.0.0",
+  "description": "tuge-ui样式库",
+  "keywords": [],
+  "author": "TuGe7025 & chenle",
+  "license": "MIT",
+  "files": [
+    "es",
+    "lib"
+  ],
+  "sideEffects": [
+    "*.css",
+    "*.scss"
+  ],
+  "scripts": {
+    "build": "gulp"
+  }
+}

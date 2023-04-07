@@ -1,0 +1,19 @@
+{
+  "name": "@tuge-ui/utils",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "TuGe7025 & chenle",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "es",
+    "lib",
+    "dist"
+  ],
+  "scripts": {
+    "build": "vite build"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "allowJs": true,
+    "noImplicitThis": true,
+    "paths": {
+      "@tuge-ui/utils": ["../packages/utils/src"]
+    }
+  },
+  "include": ["src/**/*"],
+}

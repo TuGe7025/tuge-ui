@@ -1,0 +1,3 @@
+packages:
+  - 'packages/*' # 存放组件的
+  - docs
